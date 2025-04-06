@@ -1,0 +1,100 @@
+SQLite tables ready.
+Loaded 20 Job Descriptions.
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+CropBox missing from /Page, defaulting to MediaBox
+
+📊 Final Matching Results:
+
+🧾 Candidate 1 Top Matches:
+   1. JD 17 - Robotics Engineer (25.21%)
+   2. JD 19 - Quality Assurance Engineer (23.53%)
+   3. JD 8 - Full Stack Developer (22.71%)
+❌ No interview scheduled for Candidate 1 (all scores < 30%)
+
+🧾 Candidate 2 Top Matches:
+   1. JD 10 - AI Researcher (35.89%)
+   2. JD 6 - Machine Learning Engineer (34.77%)
+   3. JD 17 - Robotics Engineer (32.64%)
+✅ Interview scheduled for Candidate 2
+
+🧾 Candidate 3 Top Matches:
+   1. JD 19 - Quality Assurance Engineer (32.48%)
+   2. JD 8 - Full Stack Developer (30.49%)
+   3. JD 17 - Robotics Engineer (29.28%)
+✅ Interview scheduled for Candidate 3
+
+🧾 Candidate 4 Top Matches:
+   1. JD 6 - Machine Learning Engineer (36.43%)
+   2. JD 19 - Quality Assurance Engineer (34.28%)
+   3. JD 17 - Robotics Engineer (33.19%)
+✅ Interview scheduled for Candidate 4
+
+🧾 Candidate 5 Top Matches:
+   1. JD 17 - Robotics Engineer (26.86%)
+   2. JD 19 - Quality Assurance Engineer (25.77%)
+   3. JD 6 - Machine Learning Engineer (24.48%)
+❌ No interview scheduled for Candidate 5 (all scores < 30%)
+
+🧾 Candidate 6 Top Matches:
+   1. JD 4 - Cloud Engineer (23.91%)
+   2. JD 6 - Machine Learning Engineer (23.89%)
+   3. JD 17 - Robotics Engineer (22.35%)
+❌ No interview scheduled for Candidate 6 (all scores < 30%)
+
+🧾 Candidate 7 Top Matches:
+   1. JD 6 - Machine Learning Engineer (44.80%)
+   2. JD 10 - AI Researcher (36.37%)
+   3. JD 8 - Full Stack Developer (34.66%)
+✅ Interview scheduled for Candidate 7
+
+🧾 Candidate 8 Top Matches:
+   1. JD 10 - AI Researcher (26.56%)
+   2. JD 19 - Quality Assurance Engineer (22.55%)
+   3. JD 17 - Robotics Engineer (21.95%)
+❌ No interview scheduled for Candidate 8 (all scores < 30%)
+
+🧾 Candidate 9 Top Matches:
+   1. JD 17 - Robotics Engineer (24.11%)
+   2. JD 19 - Quality Assurance Engineer (23.40%)
+   3. JD 8 - Full Stack Developer (22.56%)
+❌ No interview scheduled for Candidate 9 (all scores < 30%)
+
+🧾 Candidate 10 Top Matches:
+   1. JD 6 - Machine Learning Engineer (31.52%)
+   2. JD 8 - Full Stack Developer (28.37%)
+   3. JD 4 - Cloud Engineer (28.03%)
+✅ Interview scheduled for Candidate 10
+
+ All done!
