@@ -1,0 +1,1 @@
+Cover letter generation failed due to API error or unexpected issue.
