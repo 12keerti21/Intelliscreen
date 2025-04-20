@@ -64,4 +64,4 @@ python-docx
 openai
 firebase-admin
 yagmail
-matplotlib.pyplot as plt
+matplotlib
