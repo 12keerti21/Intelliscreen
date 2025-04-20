@@ -8,7 +8,6 @@ pandas>=1.5.0              # For loading and manipulating job_description.csv
 pdfplumber>=0.10.0         # For parsing PDF CVs
 scikit-learn>=1.2.0        # For TF-IDF vectorization and cosine similarity matching
 streamlit>=1.29.0          # For the interactive UI in app.py
-sqlite3                    # Included in Python standard library, used for recruitment.db
 
 
 # Python Version
@@ -55,3 +54,12 @@ sqlite3                    # Included in Python standard library, used for recru
 # 4. Troubleshooting:
 #    - If ollama.chat fails, ensure the server is running or use pre-computed jd_summaries.json.
 #    - Check GPU support (optional): Install CUDA if available.
+streamlit
+pandas
+numpy
+scikit-learn
+PyPDF2
+pdfplumber
+python-docx
+openai
+firebase-admin
