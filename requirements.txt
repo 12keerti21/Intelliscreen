@@ -63,3 +63,4 @@ pdfplumber
 python-docx
 openai
 firebase-admin
+yagmail
