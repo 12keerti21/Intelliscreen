@@ -4,7 +4,7 @@ Welcome to the project repository for "Enhancing Job Screening with AI and Data 
 
 ## Project Overview
 - **Idea Title**: AI-Powered Job Screening Revolution
-- **Team Name**: [Your Name] (or your team name, e.g., "AI Innovators")
+
 - **Problem Statement**: Manual screening of job applications is time-consuming and inefficient, especially for large datasets (e.g., 20 job descriptions and 200 CVs). This leads to delays in hiring and potential mismatches between candidates and roles.
 - **Proposed Solution**: An AI-powered system that parses CVs, summarizes job descriptions using the Gemma:2b model, and matches candidates to roles with TF-IDF. Features include a Streamlit interface for real-time uploads, batch processing for bulk analysis, and email scheduling for top matches (≥30% score).
 
